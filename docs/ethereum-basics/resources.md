@@ -104,6 +104,7 @@ description: A list of essential Ethereum’s resources.
 * [Hacking, Distributed \(Emin Gün Sirer\)](http://hackingdistributed.com/)
 * [Simon de la Rouviere](https://medium.com/@simondlr)
 * [Tony Sheng](https://www.tonysheng.com/)
+* [CoinKir](https://coinkir.com/)
 * [Preethi Kasireddy \(Blockchain Engineer\)](https://medium.com/@preethikasireddy)
 
 ## Technical Resources
